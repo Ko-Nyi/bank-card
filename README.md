@@ -1,4 +1,4 @@
-# bank-card
+# bank-card 🏦
 
 This app was developed after studying array and array methods from the JavaScript course by Jonas Schmedtmann. It was a great course and taught everything i need to know about JavaScript to become a JavaScript developer.
 
