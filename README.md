@@ -8,6 +8,6 @@ This app is really focus on array and array methods. And it also ue some API lik
 
 ** Note **
 This app contains only tow accounts
--Ko Nyi (kn)
-+John Davic(jd)
+- Ko Nyi (kn)
++ John Davic(jd)
 You can add more accounts from **app.js** file if you wish.
