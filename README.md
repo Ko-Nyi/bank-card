@@ -6,7 +6,9 @@ To play with this app, you need to login first by using **kn** for username and 
 
 This app is really focus on array and array methods. And it also ue some API like DOM API , [ Internationalization API ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl), number methods , date and time method.
 
-** Note **
+**Note**
+
+
 This app contains only tow accounts
 - Ko Nyi (kn)
 + John Davic (jd)
